@@ -69,7 +69,7 @@ The four tables are blended at different grains and visualized using KPIs, filte
 
 ### What are Active HC, Ongoing HC, Compliance %, and TAL for any Regional Head?
 
-![executive_summary.png](assets/executive_summary.png)
+![executive_summary.png](https://github.com/Harshvardan23/Compliance_Dashboard/blob/main/compliance%20Assets/executive_summary.png)
 
 ## Design Challenge
 
@@ -142,7 +142,7 @@ TAL is consistently the lowest number on the dashboard by design — candidates 
 
 ### What is the Revenue Model compliance for each Regional Head, and where is the Revenue Model undefined?
 
-![revenue_model_compliance.png](assets/revenue_model_compliance.png)
+![revenue_model_compliance.png](https://github.com/Harshvardan23/Compliance_Dashboard/blob/main/compliance%20Assets/revenue_model_compliance.png)
 
 ## Design Challenge
 
@@ -156,7 +156,7 @@ Mode of Dealing and Revenue Model are tracked as two independent dimensions, cro
 
 ### For Inbound clients, has the candidate's stipend actually been billed through the system?
 
-![stipend_billed_compliance.png](assets/stipend_billed_compliance.png)
+![stipend_billed_compliance.png](https://github.com/Harshvardan23/Compliance_Dashboard/blob/main/compliance%20Assets/stipend_billed_compliance.png)
 
 ## Design Challenge
 
@@ -176,7 +176,7 @@ END
 
 ### Which Ongoing candidates are missing an Employee Code, and who are they?
 
-![employee_code_compliance.png](assets/employee_code_compliance.png)
+![employee_code_compliance.png](https://github.com/Harshvardan23/Compliance_Dashboard/blob/main/compliance%20Assets/employee_code_compliance.png)
 
 Ongoing HC is grouped by Employee Code, with NULL surfaced as its own bucket — currently the largest single bucket on the dashboard — so Regional Heads can immediately pull the underlying candidate list and close the gap.
 
@@ -184,7 +184,7 @@ Ongoing HC is grouped by Employee Code, with NULL surfaced as its own bucket —
 
 ### For a given Trainer and Client, what is Active HC, Ongoing HC, and TAL (CW/PW)?
 
-![trainer_candidate_compliance.png](assets/trainer_candidate_compliance.png)
+![trainer_candidate_compliance.png](https://github.com/Harshvardan23/Compliance_Dashboard/blob/main/compliance%20Assets/trainer_candidate_compliance.png)
 
 Every client is assigned a trainer who delivers scheduled classes on-site. This view lets a Regional Head or the training team see, per trainer per client, whether the candidates assigned are actually attending — directly connecting trainer accountability to attendance outcomes.
 
@@ -192,7 +192,7 @@ Every client is assigned a trainer who delivers scheduled classes on-site. This 
 
 ### What is the year-over-year monthly client onboarding trend?
 
-![yoy_onboarding_trend.png](assets/yoy_onboarding_trend.png)
+![yoy_onboarding_trend.png](https://github.com/Harshvardan23/Compliance_Dashboard/blob/main/compliance%20Assets/yoy_onboarding_trend.png)
 
 ## ⚙️ Metric Logic Approach
 
@@ -215,7 +215,7 @@ REGEXP_EXTRACT(client_name, '^([^ ]+ [^ ]+)')
 
 ### For any Regional Head, which client MOUs are expiring next month?
 
-![contract_renewal_tracker.png](assets/contract_renewal_tracker.png)
+![contract_renewal_tracker.png](https://github.com/Harshvardan23/Compliance_Dashboard/blob/main/compliance%20Assets/contract_renewal_tracker.png)
 
 ## ⚙️ Metric Logic Approach
 
