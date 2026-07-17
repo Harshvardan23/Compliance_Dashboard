@@ -236,7 +236,7 @@ The December → January year rollover is handled explicitly so contracts expiri
 
 ### What is the document compliance status (MOU, WC, MC, GPA) for every active client?
 
-![document_compliance.png](assets/document_compliance.png)
+![document_compliance.png](https://github.com/Harshvardan23/Compliance_Dashboard/blob/main/compliance%20Assets/document_compliance.png)
 
 ## Design Challenge
 
@@ -264,7 +264,7 @@ The identical structure is reused for **WC** (`wc_start_date` / `wc_end_date`), 
 
 ### For every Ongoing candidate, has the admission letter and offer letter actually been generated?
 
-![admission_offer_letter_compliance.png](assets/admission_offer_letter_compliance.png)
+![admission_offer_letter_compliance.png](https://github.com/Harshvardan23/Compliance_Dashboard/blob/main/compliance%20Assets/admission_offer_letter_compliance.png)
 
 Every Ongoing candidate is supposed to have both an admission letter and an offer letter issued — in practice this frequently doesn't happen. This view surfaces exactly which candidates are missing one or both documents, so the gap can be pushed back to the responsible team and closed.
 
@@ -272,7 +272,7 @@ Every Ongoing candidate is supposed to have both an admission letter and an offe
 
 ## Dashboard-Preview
 
-![dashboard_full_preview.jpg](assets/dashboard_full_preview.jpg)
+![dashboard_full_preview.jpg](https://github.com/Harshvardan23/Compliance_Dashboard/blob/main/compliance%20Assets/dashboard_full_preview.jpg)
 
 ---
 
