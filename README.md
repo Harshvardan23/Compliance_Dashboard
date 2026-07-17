@@ -1,4 +1,4 @@
-# apprenticeship-training-compliance-dashboard
+# Compliance Dashboard
 An end-to-end Looker Studio dashboard built to monitor candidate lifecycle, trainer-led learning delivery, stipend billing, and client (employer) document compliance for a PAN-India apprenticeship and skilling organization. Designed to give leadership real-time visibility while giving regional and on-ground teams a tool to find and close their own compliance gaps.
 
 > 👇 **Jump to the complete dashboard preview**  
