@@ -4,7 +4,7 @@ An end-to-end Looker Studio dashboard built to monitor candidate lifecycle, trai
 > 👇 **Jump to the complete dashboard preview**  
 > [Jump to Dashboard Preview ↓](#dashboard-preview)
 
-![dashboard_hero.jpg](assets/dashboard_hero.jpg)
+![dashboard_hero.jpg](https://github.com/Harshvardan23/Compliance_Dashboard/blob/main/compliance%20Assets/dashboard_hero.jpg)
 
 # 📌 Project Overview
 
